@@ -1,17 +1,10 @@
 # Awesome-RLOps
 
-Papers and open resources on **operations management throughout the LLM reinforcement learning training lifecycle**.
-
-**312 papers · 5 stages · 18 topics · 11 open-source resources**  
-Last updated: 2026-11-16
-
 <a id="our-survey"></a>
 
 ## Our Survey
 
 Our survey organizes LLM RLOps around Training Setup, Experience Collection, Reward Computation, Policy Optimization, and Model Evaluation. It connects resource and execution management with feedback reliability, learning stability, failure recovery, and validation of training outcomes.
-
-The manuscript is being prepared; its paper link and citation will be added when public.
 
 <a id="taxonomy"></a>
 
@@ -604,13 +597,8 @@ Reviews of earlier RLOps, AgentOps, reliability, and self-improvement safety pro
 | [Trustworthy Recursive Self-Improvement in the Era of Large Models: Foundation, Risks, Evaluation and Open Challenges](https://arxiv.org/abs/2610.35193) | 2026 | Trustworthiness, evaluation, and oversight across self-improvement cycles. |
 | [Rlops: Development life-cycle of reinforcement learning aided open ran](https://arxiv.org/abs/2111.06978) | 2022 | Earlier RLOps lifecycle practices in Open RAN. |
 
-<a id="contributing"></a>
-
-## Contributing
-
-Paper suggestions, official code links, publication updates, and corrections are welcome through issues or pull requests.
-
 <a id="citation"></a>
 
 ## Citation
+
 
